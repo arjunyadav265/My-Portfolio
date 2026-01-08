@@ -53,7 +53,7 @@ const resumeHTML = `<!DOCTYPE html>
             <h1>ARJUN YADAV</h1>
             <div class="title">Front-End Developer</div>
             <div class="contact-info">
-                <div class="contact-item phone"><span>+91 7854757478</span></div>
+                <div class="contact-item phone"><span>+91 7393012265</span></div>
                 <div class="contact-item email"><a href="mailto:arjunyadavmau2003@gmail.com">arjunyadavmau2003@gmail.com</a></div>
                 <div class="contact-item linkedin"><a href="https://www.linkedin.com/in/arjunyadav265" target="_blank">linkedin.com/in/arjunyadav265</a></div>
                 <div class="contact-item github"><a href="https://github.com/arjunyadav265" target="_blank">github.com/arjunyadav265</a></div>
